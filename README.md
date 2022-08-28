@@ -5,4 +5,5 @@
 
 # 宿主环境问题 (mock runtime env)
 
-
+[setupFilesAfterEnv](https://jestjs.io/docs/configuration#setupfilesafterenv-array)
+[setupfiles-array](https://jestjs.io/docs/configuration#setupfiles-array)
